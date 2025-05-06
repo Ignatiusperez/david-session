@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃BHERON-MD SESSION IS 
+┃PEREZ-MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘OFFICIAL-BHERON𖥘
+❶ || Creator = 𖥘Ignatius-perez𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D
+❷ || WhattsApp Channel = https://chat.whatsapp.com/Gbv4AhXFJ7h43SQq4eJQeC
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-FOR FAST REPLY +27610822140 
+FOR FAST REPLY +254108098259 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*OFFICIAL-BHERON*
+©*ignatius-perez*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
